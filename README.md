@@ -1,1 +1,3 @@
-# 7_HZ-22
+Gronit Hackathon 
+Team name - HZ-22
+Table number - 7
